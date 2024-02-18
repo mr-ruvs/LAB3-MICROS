@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\Debug\PostLab_3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PostLab_3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PostLab_3.map</FILE>
+  <FILE>PostLab_3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>48</LINE></SETUP>
+  <ISR_TIMER0_OVF><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>113</LINE></ISR_TIMER0_OVF>
+  <T7S><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>46</LINE></T7S>
+  <Init_T0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>102</LINE></Init_T0>
+  <LOOP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>81</LINE></LOOP>
+  <DISPLAY_SEG><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>135</LINE></DISPLAY_SEG>
+  <DISPLAY_SEG_DECENAS><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>156</LINE></DISPLAY_SEG_DECENAS>
+  <AUMENTAR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>128</LINE></AUMENTAR>
+  <AUMENTAR2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\labs\Lab_3\PostLab_3\PostLab_3\main.asm</FILE><LINE>131</LINE></AUMENTAR2>
+ </LABELS>
+</ASSEMBLER_INFO>
